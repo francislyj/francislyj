@@ -1,20 +1,20 @@
 # Hi, I'm Francis 👋
 
-I'm an independent software creator and freelance engineer, focused on turning ambitious ideas into finished digital products. My philosophy is product-first: I architect and build systems that are not just functional, but also scalable and a pleasure to use.
+I'm an independent software creator and freelance engineer, passionate about transforming ambitious ideas into impactful digital products. My philosophy is product-first: I design and build systems that are not only robust and scalable, but also delightful to use.
 
 ---
 
 ### What I Build
 
-I architect and build the full picture, from the core engine to the final user experience:
+I bring the full vision to life, from the foundational engine to the final user experience:
 
--   **Resilient & Scalable Backends:** I craft the powerful, reliable core of a product, typically using **Go**.
--   **Intelligent Data Layers:** I build the brains of the operation, using **Python** to uncover insights and power smart features.
--   **Modern Web Experiences:** I create fast, interactive web apps and dashboards with **Node.js/TypeScript**.
--   **Seamless Native Apps:** I deliver the product directly into users' hands with beautiful, native **iOS** apps.
+- **Resilient & Scalable Backends:** Building the powerful, reliable core of any product.
+- **Intelligent Data Layers:** Creating the brains behind the operation, uncovering insights and enabling smart features.
+- **Modern Web Experiences:** Delivering fast, interactive web apps and dashboards that users love.
+- **Seamless Native Apps:** Bringing products directly into users' hands with beautiful, native experiences.
 
 ---
 
-I'm always looking to collaborate on exciting ventures or help bring a founder's vision to life.
+I'm always open to collaborating on exciting ventures or helping founders turn their vision into reality.
 
 📫 If you want to build something amazing together, reach out: **francislyj@gmail.com**
