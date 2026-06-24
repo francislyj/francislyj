@@ -5,8 +5,8 @@ more deliberately, the shared foundation they stand on.
 
 Most of my work is one person carrying an idea all the way down the stack: a
 reusable infrastructure layer (auth, config, observability, storage, a service
-skeleton you clone to start a new product) that every product then builds on.
-Backend, web, and native iOS — one coherent system rather than scattered apps.
+skeleton you clone to start a new product) that every product then builds on —
+one coherent system rather than scattered apps.
 
 ### How I work
 
